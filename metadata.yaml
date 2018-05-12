@@ -1,0 +1,58 @@
+_repo: Letters-of-Felix-Mendelssohn-Bartholdy-from-Italy-and-Switzerland_39384
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Marguerittes, Julie de
+    alias: De Marguerittes, Julie
+    birthdate: 1814
+    deathdate: 1866
+    gutenberg_agent_id: '40270'
+    url: http://www.gutenberg.org/2009/agents/40270
+  translator:
+    agent_name: Wallace, Grace, Lady
+    aliases:
+    - Wallace, Grace Jane
+    - Wallace, Grace Stein Don, Lady
+    - Wallace, Lady
+    deathdate: 1878
+    gutenberg_agent_id: '1760'
+    url: http://www.gutenberg.org/2009/agents/1760
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Jane_Wallace
+covers:
+- cover_type: archival
+  image_path: 39384-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mendelssohn-Bartholdy, Felix
+    aliases:
+    - Mendelssohn, Felix
+    - Mendelssohn-Bartholdy, F. (Felix)
+    - Mendelssohn-Bartholdy, Jacob Ludwig Felix
+    - Mendelssohn, F. (Felix)
+    - Mendelssohn-Bartholdy, Jakob Ludwig Felix
+    birthdate: 1809
+    deathdate: 1847
+    gutenberg_agent_id: '8145'
+    url: http://www.gutenberg.org/2009/agents/8145
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Mendelssohn
+  editor:
+    agent_name: Mendelssohn-Bartholdy, Paul
+    birthdate: 1812
+    deathdate: 1874
+    gutenberg_agent_id: '39995'
+    url: http://www.gutenberg.org/2009/agents/39995
+description: ''
+gutenberg_issued: '2012-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39384'
+  lccn: '19007341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'ML'
+title: Letters of Felix Mendelssohn Bartholdy from Italy and Switzerland
+url: http://www.gutenberg.org/ebooks/39384
